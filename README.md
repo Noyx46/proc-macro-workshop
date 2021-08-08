@@ -1,3 +1,5 @@
+This repository will contain my solutions to these once I am finished with them.
+
 # Rust Latam: procedural macros workshop
 
 *This repo contains a selection of projects designed to learn to write Rust
